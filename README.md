@@ -7,6 +7,7 @@ Goals :
 2. integrate facebook and soundcloud .
 3. take mix offline feature.
 4. offline cache auto maintainence for auto download.
+5. git like sync feature with friends.
 
 details:
 1. facebook login validation in js.
